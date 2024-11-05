@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p newey2 Module to extend (extended) newey (HAC covariance estimation), regression with Newey-West standard errors Use newey2 With STATA 18
