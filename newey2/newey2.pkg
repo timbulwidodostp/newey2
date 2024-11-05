@@ -1,5 +1,9 @@
-d 'DEA': Data envelopment analysis
+d 'newey2': Module to extend (extended) newey (HAC covariance estimation), regression with Newey-West standard errors Use newey2 With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f newey2.ado
+f newey2.hlp
+f newey2_p.ado
+f neweydmexog.ado
+f neweydmexog.hlp
+f neweyvif.ado
+f neweyvif.hlp
